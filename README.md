@@ -1,2 +1,2 @@
-# Problem_Solving_Team_Project
-문제해결기법 텀프로젝트
+# Problem_Solving_Methods
+문제해결기법
