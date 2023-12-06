@@ -1,2 +1,2 @@
 # Problem_Solving_Methods
-문제해결기법
+2021-2학기 문제해결기법
